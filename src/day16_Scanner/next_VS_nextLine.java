@@ -4,8 +4,8 @@ public class next_VS_nextLine {
 	
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
-		
-		
+		//hele hele
+		System.out.println("vay");
 		System.out.println("your first name");
 		String str1=scan.nextLine();// nextLine yaparsak araya bosluik koyabiliriz
 		
