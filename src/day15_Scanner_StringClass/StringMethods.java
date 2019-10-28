@@ -17,7 +17,7 @@ public static void main(String[] args) {
 	 
 	 // length(): returns the total number of characters
 	 
-	 String name="Bebelere balon";
+	 String name="Bebe";
 	 System.out.println(name.length());
 	 
 	 // concat() it takes a String and concats into the String variable and returns into NEW String value
